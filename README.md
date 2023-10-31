@@ -1,1 +1,1 @@
-# repozitorij materijala uz udžbenik "Pametno održavanje"
+# Repozitorij materijala uz udžbenik "Pametno održavanje"
